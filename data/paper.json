@@ -1,0 +1,27 @@
+{
+  "site_url": "https://YOUR-DOMAIN.example",
+  "site_name": "Translating Pseudocode to Python",
+  "language": "en",
+  "title": "Translating Pseudocode to Python: An Algorithmic Approach to Automated Code Generation",
+  "short_title": "Translating Pseudocode to Python",
+  "authors": [
+    {
+      "family": "Reantaso",
+      "initials": "M. G.",
+      "orcid": null
+    }
+  ],
+  "authors_incomplete": true,
+  "date_published": "2026-11-06",
+  "publisher": "Zenodo",
+  "doi": "10.5281/zenodo.24006170",
+  "resource_type": "Research paper",
+  "language_of_work": "en",
+  "abstract": null,
+  "keywords": [],
+  "pdf_url": null,
+  "license_name": null,
+  "license_url": null,
+  "last_built_note": "Fill abstract, keywords, full author list and pdf_url when available, then run build.py and verify.py again.",
+  "date_modified": "2026-11-07"
+}
