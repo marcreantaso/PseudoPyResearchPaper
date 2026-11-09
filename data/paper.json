@@ -1,5 +1,5 @@
 {
-  "site_url": "https://YOUR-DOMAIN.example",
+  "site_url": "https://pseudopyresearchpaper.vercel.app/",
   "site_name": "Translating Pseudocode to Python",
   "language": "en",
   "title": "Translating Pseudocode to Python: An Algorithmic Approach to Automated Code Generation",
@@ -8,7 +8,7 @@
     {
       "family": "Reantaso",
       "initials": "M. G.",
-      "orcid": null
+      "orcid": https://orcid.org/0009-0008-5213-3549
     }
   ],
   "authors_incomplete": true,
