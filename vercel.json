@@ -3,6 +3,12 @@
   "framework": null,
   "buildCommand": "python3 build.py --production",
   "outputDirectory": "dist",
+  "rewrites": [
+    {
+      "source": "/google7e36d03cfd623da7.html",
+      "destination": "/assets/google7e36d03cfd623da7.html"
+    }
+  ],
   "cleanUrls": true,
   "trailingSlash": true,
   "headers": [
